@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Felipe Rosa
 
 - 🔭 Hoje trabalho como Consultor de Implantação de sistemas ERP
-- 🌱 Estudando Dev FullStack JavaScript
+- 🌱 Estudando React
 - 😄 Pronouns: ele/dele
 
 <div align="center">
