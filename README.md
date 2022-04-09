@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Felipe Rosa
 
 - 🔭 Hoje trabalho como Consultor de Implantação de sistemas ERP
-- 🌱 Estudando React
-- 😄 Pronouns: ele/dele
+- 🌱 Estudando <img align="center" alt="Felipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> React
 
 <div align="center">
   <a href="https://github.com/felipqsquall">
